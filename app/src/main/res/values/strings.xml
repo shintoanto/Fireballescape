@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fire Ball Escape</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start">START</string>
+    <string name="button_close">CLOSE</string>
+    <string name="button_exit">EXIT</string>
+    <string name="label_end_message">Your game last for</string>
+    <string name="label_credits">shintopa@outlook.com</string>
+</resources>
